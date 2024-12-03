@@ -1,6 +1,6 @@
 {
   "name": "com.wasd.urp_instancedlitlightmapsupport",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "URP Instanced Lit Lightmap Support",
   "description": "Modified version of the URP lit shader"
 }

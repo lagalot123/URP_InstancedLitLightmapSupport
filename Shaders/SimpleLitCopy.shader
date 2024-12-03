@@ -139,7 +139,7 @@ Shader "Universal Render Pipeline/Custom/Simple Lit Copy"
             // -------------------------------------
             // Includes
             #include "Packages/com.unity.render-pipelines.universal/Shaders/SimpleLitInput.hlsl"
-            #include "Packages/com.unity.render-pipelines.universal/Shaders/SimpleLitForwardPass.hlsl"
+            #include "SimpleLitForwardPassCopy.hlsl"
             ENDHLSL
         }
 

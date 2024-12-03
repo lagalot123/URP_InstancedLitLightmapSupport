@@ -170,7 +170,7 @@ Shader "Universal Render Pipeline/Custom/Lit Copy"
             #include_with_pragmas "Packages/com.unity.render-pipelines.universal/ShaderLibrary/DOTS.hlsl"
 
             #include "Packages/com.unity.render-pipelines.universal/Shaders/LitInput.hlsl"
-            #include "Packages/com.unity.render-pipelines.universal/Shaders/LitForwardPass.hlsl"
+            #include "LitForwardPassCopy.hlsl"
             ENDHLSL
         }
 
